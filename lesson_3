@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <!-- navigation bar -->
+   <nav>
+<font style="color: red;size: 5px;">
+   <a href="index.html;" style="color: brown;">home</a>
+   &nbsp; &nbsp; &nbsp;
+   <a href="department.html" style="color: red;">about</a>
+   &nbsp; &nbsp; &nbsp;
+   <a href="contactus.html" style="color: aquamarine;">Contact us</a>
+   &nbsp; &nbsp; &nbsp;
+</font>
+
+
+   </nav>
+   <h1>This is Home page</h1>
+</body>
+</html>
